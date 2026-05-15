@@ -86,5 +86,3 @@ elif option == "Tłumaczenie tekstu z angielskiego na niemiecki":
 
 st.write('---')
 st.write("Nr. indeksu s24821")
-st.write('🐞 Stwórz nowe repozytorium na GitHub, dodaj do niego swoją aplikację, plik z wymaganiami (requirements.txt)')
-st.write('🐞 Udostępnij stworzoną przez siebie aplikację (https://share.streamlit.io) a link prześlij do prowadzącego')
